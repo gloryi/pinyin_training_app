@@ -10,4 +10,6 @@ Use the other buttons to navigate within chart by primary finals.
 Chart is colored according to them.
 Examples in chart are taken from list of 5k most frequent hanzi characters.
 
-You could also add to html line "'<div id="target-div"></div>'" to see additional information about sounds and how to pronounce them correctly. It already included into css and js. Just removed from html for more clear navigation.
+You could also add to html line <blockquote>
+<div id="target-div"></div></blockquote>
+ to see additional information about sounds and how to pronounce them correctly. It already included into css and js. Just removed from html for more clear navigation.
