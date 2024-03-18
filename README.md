@@ -11,5 +11,5 @@ Chart is colored according to them.
 Examples in chart are taken from list of 5k most frequent hanzi characters.
 
 You could also add to html line
-&lt;div id="target-div"&gt;&lt;div&gt;
+&lt;div id="target-div"&gt;&lt;/div&gt;
  to see additional information about sounds and how to pronounce them correctly. It already included into css and js. Just removed from html for more clear navigation.
